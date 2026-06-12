@@ -10,12 +10,8 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 📂
 Repositorio de Código Fuente**: [https://github.com/yourusername/java-fundamentals-course-deeplook](https://github.com/winniemerino/java-fundamentals-course-teamname) 
 ## Secuencia de la Lección 
-### Lección 1: ¿Qué es Java y la Programación? (5 minutos) - **Descripción**: Aprende qué es la programación y por qué Java es un excelente lenguaje para empezar. - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link1) - **Conclusiones clave**: Java se usa para aplicaciones y juegos; los programas son instrucciones para computadoras. - **Empieza a programar**: [Abrir Replit - Hola mundo](https://replit.com/@your-starter-java) 
-### Lección 2: Variables y tipos de datos (8 minutos) - **Descripción**: Aprende a almacenar datos en Java usando variables. - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link2) - **Conclusiones clave**: Usa int, String; declara como int age = 15; - **Práctica**: [Clic para programar](https://replit.com/@your-variables-java) 
-### Lección 3: Estructuras de control: Decisiones y bucles (10 minutos) - **Descripción**: Toma decisiones con if-else y repite tareas con bucles. - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3) - **Conclusiones clave**: if (age > 12) {}; for (int i=0; i<5; i++) {} 
-�
-�
-**¡No es necesario registrarse!** - **Práctica**: [Clic para programar](https://jdoodle.com/execute-java-online/your-id) 
+### Lección 1: ¿Qué es Java y la Programación? (5 minutos) - **Descripción**: Aprende qué es la programación y por qué Java es un excelente lenguaje para empezar. - **Enlace**: [Ver la lección]([https://www.youtube.com/watch?v=example-link1](https://youtu.be/q7yFeU7tsWk)) - **Conclusiones clave**: Java se usa para aplicaciones y juegos; los programas son instrucciones para computadoras. - **Empieza a programar**: [Abrir Replit - Hola mundo](https://replit.com/@your-starter-java) 
+**¡No es necesario registrarse!** - **Práctica**: [Clic para programar](https://www.onlinegdb.com/) 
 �
 �
 **¡Inicio inmediato!** 
@@ -31,7 +27,7 @@ Repositorio de Código Fuente**: [https://github.com/yourusername/java-fundament
 ## Recursos adicionales - **Código fuente completo**: [Repositorio de GitHub](https://github.com/yourusername/java-fundamentals-course-teamname) - **Todas las actividades prácticas**: 
 | Número de lección | Actividad | Empezar a programar | 
 |----------|----------|-------------| 
-| 1 | Hola mundo | [Replit](https://replit.com/@your-lesson1) | 
+| 1 | Hola mundo | [OnlineGDB](https://www.onlinegdb.com/) | 
 | 2 | Variables | [Replit](https://replit.com/@your-lesson2) | 
 | 3 | Bucles | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson3) | 
 | 4 | Métodos y clases | [OnlineGDB](https://onlinegdb.com/your-lesson4) | 
