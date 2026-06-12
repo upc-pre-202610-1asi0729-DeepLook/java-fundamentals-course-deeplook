@@ -1,5 +1,6 @@
-public class Main {
+public class HolaMundo {
     public static void main(String[] args) {
-        System.out.println("¡Hola Mundo!");
+        // TODO: Escribe aquí la instrucción para mostrar "¡Hola Mundo!" en la consola
+        
     }
 }
