@@ -1,10 +1,10 @@
-public class Main {
+public class Variables {
     public static void main(String[] args) {
-        String mensajeBienvenida = "Bienvenido al sistema de estudiantes.";
-        int edadEstudiante = 15;
-
-        System.out.println(mensajeBienvenida);
-        System.out.println("La edad del estudiante es: ");
-        System.out.println(edadEstudiante);
+        // TODO: Crea una variable de texto (String) para guardar un mensaje de bienvenida
+        
+        // TODO: Crea una variable numérica (int) para guardar una edad
+        
+        // TODO: Muestra el contenido de estas variables en la consola usando System.out.println()
+        
     }
 }
