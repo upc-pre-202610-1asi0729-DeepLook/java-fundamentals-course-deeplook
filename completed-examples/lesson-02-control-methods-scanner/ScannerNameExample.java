@@ -9,6 +9,5 @@ public class ScannerNameExample {
 
         System.out.println("Hola, " + nombre + ". Bienvenido al curso de Java.");
 
-        lector.close();
     }
 }

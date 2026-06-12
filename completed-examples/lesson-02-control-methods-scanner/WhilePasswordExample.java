@@ -4,16 +4,15 @@ public class WhilePasswordExample {
     public static void main(String[] args) {
         Scanner lector = new Scanner(System.in);
 
-        String contraseniaCorrecta = "java123";
+        String contrasenia = "123";//Contrasenia correcta
         String contraseniaIngresada = "";
 
-        while (!contraseniaIngresada.equals(contraseniaCorrecta)) {
-            System.out.print("Ingresa la contraseña: ");
+        while (!contraseniaIngresada.equals(contrasenia)) {
+            System.out.print("Ingresa la contraseÃ±a: ");
             contraseniaIngresada = lector.nextLine();
         }
 
-        System.out.println("Contraseña correcta. Acceso permitido.");
+        System.out.println("ContraseÃ±a infresada correcta.");
 
-        lector.close();
     }
 }
