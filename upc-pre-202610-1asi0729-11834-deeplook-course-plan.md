@@ -14,7 +14,7 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 - **Enlace**: [Ver lección 1](https://youtu.be/q7yFeU7tsWk)
 - **Conclusiones clave**: Programar es estructurar instrucciones para la computadora; las variables actúan como contenedores de almacenamiento para los datos; los operadores permiten interactuar y realizar cálculos con esa información.
 - **Empieza a programar**: [Abrir OnlineGDB](https://www.onlinegdb.com)
-- 
+  
 ### Lección 2: Condicionales, bucles, métodos y entrada de datos (13:33 minutos)
 
 - **Descripción**: Aprende a crear programas más dinámicos en Java usando estructuras de control como `if-else`, bucles `for` y `while`, métodos con parámetros y entrada de datos mediante `Scanner`.
