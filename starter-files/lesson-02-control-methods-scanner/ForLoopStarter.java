@@ -1,9 +1,9 @@
 public class ForLoopStarter {
     public static void main(String[] args) {
 
-        // TODO: Completa el bucle for para imprimir los números del 1 al 5
-        for (int i = 1; /* condición */; i++) {
-            System.out.println("Repetición número: " + i);
+        // TODO: Completa el bucle for para imprimir los nï¿½meros del 1 al 10
+        for (int i = 1; /* condicion */; i++) {
+            System.out.println("RepeticiÃ³n nÃºmero: " + i);
         }
     }
 }

@@ -7,13 +7,12 @@ public class IfElseAgeStarter {
         System.out.print("Ingresa tu edad: ");
         int edad = lector.nextInt();
 
-        // TODO: Completa la condición para verificar si la edad es mayor o igual a 18
-        if (/* condición */) {
+        // TODO: Completa la condiciÃ³n para verificar si la edad es mayor o igual a 18
+        if (/* condiciÃ³n */) {
             System.out.println("Eres mayor de edad.");
         } else {
-            System.out.println("Aún eres menor de edad.");
+            System.out.println("AÃºn eres menor de edad.");
         }
 
-        lector.close();
     }
 }

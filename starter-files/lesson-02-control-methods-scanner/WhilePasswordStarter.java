@@ -7,13 +7,13 @@ public class WhilePasswordStarter {
         String contraseniaCorrecta = "java123";
         String contraseniaIngresada = "";
 
-        // TODO: Completa el while para repetir mientras la contraseña sea incorrecta
-        while (/* condición */) {
-            System.out.print("Ingresa la contraseña: ");
+        // TODO: Completa el while para repetir mientras la contraseÃ±a sea incorrecta
+        while (/* condiciÃ³n */) {
+            System.out.print("Ingresa la contraseï¿½a: ");
             contraseniaIngresada = lector.nextLine();
         }
 
-        System.out.println("Contraseña correcta. Acceso permitido.");
+        System.out.println("Contraseï¿½a correcta. Acceso permitido.");
 
         lector.close();
     }
