@@ -10,7 +10,7 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 📂
 Repositorio de Código Fuente**: [https://github.com/yourusername/java-fundamentals-course-deeplook](https://github.com/winniemerino/java-fundamentals-course-teamname) 
 ## Secuencia de la Lección 
-### Lección 1: ¿Qué es Java y la Programación? (5 minutos) - **Descripción**: Aprende qué es la programación y por qué Java es un excelente lenguaje para empezar. - **Enlace**: [Ver la lección]([https://www.youtube.com/watch?v=example-link1](https://youtu.be/q7yFeU7tsWk)) - **Conclusiones clave**: Java se usa para aplicaciones y juegos; los programas son instrucciones para computadoras. - **Empieza a programar**: [Abrir Replit - Hola mundo](https://replit.com/@your-starter-java) 
+### Lección 1: ¿Qué es Java y la Programación? (5 minutos) - **Descripción**: Aprende qué es la programación y por qué Java es un excelente lenguaje para empezar. - **Enlace**: [Ver la lección](https://youtu.be/q7yFeU7tsWk) - **Conclusiones clave**: Java se usa para aplicaciones y juegos; los programas son instrucciones para computadoras. - **Empieza a programar**: [Abrir onlinegdb - Hola mundo](https://replit.com/@your-starter-java) 
 **¡No es necesario registrarse!** - **Práctica**: [Clic para programar](https://www.onlinegdb.com/) 
 �
 �
