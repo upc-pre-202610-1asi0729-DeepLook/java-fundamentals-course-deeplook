@@ -24,7 +24,12 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 
 
 ### Lección 3: Estructuras de control: Decisiones y bucles (10 minutos)
-### Lección 4: Arrays en Programación Orientada a Objetos 
+### Lección 4: Arrays en Programación Orientada a Objetos
+- **Descripción**: Aprende a usar `ArrayList<Object>` en Java para crear colecciones dinámicas de objetos dentro de tus clases. Verás cómo un objeto puede contener una lista de otros objetos, y cómo realizar operaciones sobre esa lista como agregar, eliminar, calcular promedios y buscar elementos.
+- **Enlace**: [Ver lección 4](https://www.youtube.com/watch?v=_fLesDubFAs)
+- **Conclusiones clave**: Un `ArrayList` es una lista dinámica que crece y se encoge según necesites; en POO, los objetos pueden tener listas de otros objetos como atributos; métodos como `.add()`, `.remove()` y `.size()` te permiten manipular la colección; puedes recorrer la lista con un bucle `for-each` para imprimir o procesar cada elemento.
+- **Empieza a programar**: [Abrir OnlineGDB](https://www.onlinegdb.com)
+
 ### Lección 5: Fundamentos de POO y programas sencillos (15 minutos) 
 ### Lección 6: Consejos y próximos pasos (10 minutos) 
 ## Recursos adicionales 
