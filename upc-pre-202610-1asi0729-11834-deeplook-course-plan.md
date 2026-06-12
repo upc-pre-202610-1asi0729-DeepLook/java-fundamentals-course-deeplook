@@ -8,8 +8,13 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 **Herramientas necesarias**: ¡Solo tu navegador web! (Chrome, Firefox, Safari, Edge) <br>
 **📂 Repositorio de Código Fuente**: [https://github.com/java-fundamentals-course-deeplook](https://github.com/upc-pre-202610-1asi0729-DeepLook/java-fundamentals-course-deeplook.git) 
 ## Secuencia de la Lección 
-### Lección 1: ¿Qué es Java y la Programación? (5 minutos) 
 
+### Lección 1: ¿Qué es Java y la Programación?, Variables, Operadores y Expresiones(13:30 minutos) 
+- **Descripción**: Aprende los fundamentos esenciales de la programación en Java, creando tu primer programa, almacenando información en variables (`int`, `String`) y realizando cálculos básicos mediante operadores y expresiones.
+- **Enlace**: [Ver lección 1](https://youtu.be/q7yFeU7tsWk)
+- **Conclusiones clave**: Programar es estructurar instrucciones para la computadora; las variables actúan como contenedores de almacenamiento para los datos; los operadores permiten interactuar y realizar cálculos con esa información.
+- **Empieza a programar**: [Abrir OnlineGDB](https://www.onlinegdb.com)
+  
 ### Lección 2: Condicionales, bucles, métodos y entrada de datos (13:33 minutos)
 
 - **Descripción**: Aprende a crear programas más dinámicos en Java usando estructuras de control como `if-else`, bucles `for` y `while`, métodos con parámetros y entrada de datos mediante `Scanner`.
@@ -28,11 +33,11 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 
 | Número de lección | Actividad | Empezar a programar | 
 |----------|----------|-------------| 
-| 1 | Hola mundo | [Replit](https://replit.com/@your-lesson1) | 
-| 2 | Variables | [Replit](https://replit.com/@your-lesson2) | 
-| 3 | Bucles | [OnlineGDB](https://onlinegdb.com/your-lesson4) | 
-| 4 | Métodos y clases | [OnlineGDB](https://onlinegdb.com/your-lesson4) | 
-| 5 | Programa OOP | [Replit](https://replit.com/@your-lesson5) | - Cuestionario: [Prueba de conocimientos](https://forms.gle/your-quiz) - Compartir: #JavaBeginners 
+| 1 | Hola mundo, Variables, Operadores y Expresiones | [OnlineGDB](https://www.onlinegdb.com/) | 
+| 2 | Variables | [OnlineGDB](https://www.onlinegdb.com/) | 
+| 3 | Bucles | [OnlineGDB](https://onlinegdb.com/) | 
+| 4 | Métodos y clases | [OnlineGDB](https://onlinegdb.com/) | 
+| 5 | Programa OOP | [OnlineGDB](https://www.onlinegdb.com/) | - Cuestionario: [Prueba de conocimientos](https://forms.gle/your-quiz) - Compartir: #JavaBeginners 
 **¡Gracias por completar el curso!** 
 ## Elaboración 
 Universidad Peruana de Ciencias Aplicadas<br>
