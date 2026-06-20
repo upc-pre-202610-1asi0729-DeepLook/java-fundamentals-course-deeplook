@@ -1,6 +1,6 @@
 # Guión — Lección 5: Fundamentos de POO y programas sencillos (12-15 minutos)
 
-**Responsable:** Fabian Sandoval
+**Responsable:** [Tu nombre]
 
 **Herramienta:** OnlineGDB
 
@@ -283,7 +283,8 @@ _(Ejecutar el programa en OnlineGDB — registrar 2 Pokémon, uno con nombre y o
 >"¿Lo ves? Cada Pokémon que registramos es un objeto independiente, con sus propios atributos guardados en el array equipoPokemon."
 >"El menú sigue funcionando en bucle gracias al while(true), y cada opción usa justamente los getters, setters y el método mostrar() que construimos."
 >"Acabas de construir un programa real usando absolutamente todo lo aprendido en el curso: variables, condicionales, bucles, métodos, arrays, clases, objetos, constructores, getters y setters."
->"Antes de cerrar, te dejo un reto: ¿puedes agregar una cuarta opción al menú que elimine un Pokémon de la lista? Pruébalo en OnlineGDB y compártelo con el hashtag #JavaBeginners."
->"Gracias por llegar hasta aquí. ¡Nos vemos en la siguiente lección!"
+>"Antes de cerrar, te dejo un reto: en la lección anterior aprendiste sobre arrays dinámicos. ¿Puedes agregarle a la clase Pokemon una lista de habilidades, como 'Combustion', 'Lanzallamas' o 'Brasas', usando un ArrayList en vez de un array de tamaño fijo?"
+>"Pruébalo en OnlineGDB y compártelo con tus amigos."
+>"Gracias por llegar hasta aquí."
 
 _(Pantalla final — mostrar el código completo + enlace al repositorio de GitHub)_
