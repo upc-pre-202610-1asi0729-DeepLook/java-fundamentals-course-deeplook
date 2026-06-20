@@ -58,10 +58,14 @@ Universidad Peruana de Ciencias Aplicadas<br>
 Carrera de Ingeniería de Software <br>
 Período 202610 <br>
 1ASI0729 Desarrollo de Aplicaciones Open Source <br>
-NRC 11834
+NRC 11834 <br>
 
-**Nombre del equipo**: Deeplook <br>
-**Líder del equipo**: [Nombres y Apellidos]  <br>
+**Nombre del equipo:** Deeplook <br>
+**Líder del equipo:** Elias Daniel Ramos Cerdan <br>
 **Integrantes del equipo:**
-  - 
-**Fecha de entrega**: 
+- Winnie Lisbeth Merino Ordinola
+- Fabian Jesus Sandoval Cueto
+- Alejandro Manuel Jave Chang
+- Gabriela Luciana Tirado Carrera
+- Elias Daniel Ramos Cerdan
+**Fecha de entrega**: 20-06-2025
