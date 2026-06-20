@@ -31,7 +31,11 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 - **Empieza a programar**: [Abrir OnlineGDB](https://www.onlinegdb.com)
 
 ### Lección 5: Fundamentos de POO y programas sencillos (15 minutos) 
-### Lección 6: Consejos y próximos pasos (10 minutos) 
+### Lección 6: Consejos y próximos pasos (10 minutos)
+- **Descripción**: Aprende sobre los errores más comunes que todo programador principiante comete, además recibirás consejos prácticos para seguir mejorando en Java. 
+- **Enlace**: [Ver lección 6](https://youtu.be/VaAGDtCNkNI)
+- **Conclusiones clave**: Resume el curso uniendo la teoría en un proyecto práctico de Pokémon; enseña a solucionar errores comunes de sintaxis y lógica en Java; impulsa la autonomía, código limpio y uso de GitHub para el futuro.
+- **Empieza a programar**: [Abrir OnlineGDB](https://www.onlinegdb.com)
 ## Recursos adicionales 
 - **Código fuente completo**: [Repositorio de GitHub](https://github.com/upc-pre-202610-1asi0729-DeepLook/java-fundamentals-course-deeplook.git) 
 - **Todas las actividades prácticas**: 
