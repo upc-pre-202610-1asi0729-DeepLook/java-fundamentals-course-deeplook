@@ -1,4 +1,4 @@
-# 🎬 GUION: ArrayList — Tu colección de objetos en Java
+# GUION: ArrayList — Tu colección de objetos en Java
 
 **Duración estimada:** 12 minutos
 **Público:** 12–17 años
@@ -6,17 +6,17 @@
 
 ---
 
-## 🎙️ INTRO (0:00 – 0:45)
+## INTRO (0:00 – 0:45)
 
 *[Mostrar en pantalla: una lista de Spotify con canciones]*
 
 Oye, ¿alguna vez has creado una playlist en Spotify? Agregas canciones, las quitas, las escuchas en orden… ¿Y si te dijera que eso es **exactamente** lo que hace un `ArrayList` en Java?
 
-Hoy vamos a ver qué es un `ArrayList<Object>`, por qué es una de las herramientas más poderosas en la Programación Orientada a Objetos, y cómo usarla. Spoiler: al final del video vas a poder crear tu propia playlist en código. 🎵
+Hoy vamos a ver qué es un `ArrayList<Object>`, por qué es una de las herramientas más poderosas en la Programación Orientada a Objetos, y cómo usarla. Spoiler: al final del video vas a poder crear tu propia playlist en código. 
 
 ---
 
-## 📦 SECCIÓN 1 — ¿Qué es un ArrayList? (0:45 – 2:30)
+## SECCIÓN 1 — ¿Qué es un ArrayList? (0:45 – 2:30)
 
 *[Mostrar analogía visual: una mochila con compartimentos]*
 
@@ -28,9 +28,11 @@ A diferencia de los arrays normales (que tienen tamaño fijo, como una caja de h
 
 El `<String>` entre los corchetes angulares es el **tipo de datos** que va a guardar la lista. Eso es lo que hace especial a `ArrayList<Algo>`: le dices exactamente qué tipo de objeto va a contener.
 
+* Archivo relacinado:
+  
 ---
 
-## 🏗️ SECCIÓN 2 — Lista como atributo de un objeto (2:30 – 4:30)
+## SECCIÓN 2 — Lista como atributo de un objeto (2:30 – 4:30)
 
 *[Analogía: una clase Playlist como objeto real]*
 
@@ -40,11 +42,12 @@ Piénsalo así: una `Playlist` es un objeto. Pero dentro de esa playlist hay *mu
 
 *[Escribir código en vivo: clase Playlist con constructor, agregarCancion, eliminarCancion, mostrarCanciones]*
 
-El objeto `Playlist` *encapsula* su lista. Nadie desde afuera accede directamente al `ArrayList`: lo hacen a través de los métodos. Eso es **encapsulamiento** — uno de los principios clave de POO. 🔒
+El objeto `Playlist` *encapsula* su lista. Nadie desde afuera accede directamente al `ArrayList`: lo hacen a través de los métodos. Eso es **encapsulamiento** — uno de los principios clave de POO. 
 
+* Archivo relacinado:
 ---
 
-## 🎢 SECCIÓN 3 — Lista de objetos dentro de un objeto (4:30 – 7:00)
+## SECCIÓN 3 — Lista de objetos dentro de un objeto (4:30 – 7:00)
 
 *[Analogía: un parque de diversiones y sus visitantes]*
 
@@ -58,4 +61,6 @@ Imagina un parque de diversiones. Hay una atracción llamada "Montaña Rusa" y c
 
 *[Probar el programa: crear varias personas, algunas con altura suficiente y otras no, mostrar quiénes subieron]*
 
-Carlo no entró porque no cumplía la altura mínima. La lista solo guarda a quienes sí pudieron subir. 🎢
+Carlo no entró porque no cumplía la altura mínima. La lista solo guarda a quienes sí pudieron subir. 
+
+* Archivo relacinado:
