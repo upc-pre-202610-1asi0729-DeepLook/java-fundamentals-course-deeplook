@@ -29,4 +29,4 @@ Si deseas practicar con alguno de los archivos de este repositorio, sigue estos 
 ---
 
 ## 🔗 Enlaces del Curso
-Para acceder a la secuencia de videos en YouTube, los enlaces directos a las prácticas ya configuradas en los editores y el resumen del curso, revisa nuestro **[Documento Principal del Curso (Artefacto.md)](#)**.
+Para acceder a la secuencia de videos en YouTube, los enlaces directos a las prácticas ya configuradas en los editores y el resumen del curso, revisa nuestro **[Documento Principal del Curso (Artefacto.md)](upc-pre-202610-1asi0729-11834-deeplook-course-plan.md)**.
