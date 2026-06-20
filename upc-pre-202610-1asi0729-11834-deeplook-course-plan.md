@@ -35,8 +35,14 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 - **Conclusiones clave**: Un `ArrayList` es una lista dinámica que crece y se encoge según necesites; en POO, los objetos pueden tener listas de otros objetos como atributos; métodos como `.add()`, `.remove()` y `.size()` te permiten manipular la colección; puedes recorrer la lista con un bucle `for-each` para imprimir o procesar cada elemento.
 - **Empieza a programar**: [Abrir OnlineGDB](https://www.onlinegdb.com)
 
-### Lección 5: Fundamentos de POO y programas sencillos (15 minutos) 
+### Lección 5: Fundamentos de POO y programas sencillos (15 minutos)
+- **Descripción**: Aprende a aplicar todo lo visto en las lecciones anteriores construyendo un Registro de Pokémon desde cero usando Programación Orientada a Objetos (POO) en Java: clases, objetos, constructores, getters/setters, arrays y bucles.
+- **Enlace**: [Ver lección 5](https://youtu.be/V70NirX7hiE)
+- **Conclusiones clave**: Una clase puede combinar atributos, constructor, getters/setters y métodos propios; los arrays permiten almacenar múltiples objetos; los bucles y condicionales permiten construir menús interactivos para el usuario.
+- **Empieza a programar**: [Abrir OnlineGDB](https://www.onlinegdb.com/edit/oAYRopieb)
+
 ### Lección 6: Consejos y próximos pasos (10 minutos) 
+
 ## Recursos adicionales 
 - **Código fuente completo**: [Repositorio de GitHub](https://github.com/upc-pre-202610-1asi0729-DeepLook/java-fundamentals-course-deeplook.git) 
 - **Todas las actividades prácticas**: 
@@ -47,7 +53,7 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 | 2 | Variables | [OnlineGDB](https://www.onlinegdb.com/) | 
 | 3 | Bucles | [OnlineGDB](https://onlinegdb.com/) | 
 | 4 | Métodos y clases | [OnlineGDB](https://onlinegdb.com/) | 
-| 5 | Programa OOP | [OnlineGDB](https://www.onlinegdb.com/) | - Cuestionario: [Prueba de conocimientos](https://forms.gle/your-quiz) - Compartir: #JavaBeginners 
+| 5 | Programa OOP | [OnlineGDB](https://www.onlinegdb.com/edit/fbFmpb9dqh) | - Cuestionario: [Prueba de conocimientos](https://forms.gle/your-quiz) - Compartir: #JavaBeginners 
 **¡Gracias por completar el curso!** 
 ## Elaboración 
 Universidad Peruana de Ciencias Aplicadas<br>
@@ -55,9 +61,3 @@ Carrera de Ingeniería de Software <br>
 Período 202610 <br>
 1ASI0729 Desarrollo de Aplicaciones Open Source <br>
 NRC 11834
-
-**Nombre del equipo**: Deeplook <br>
-**Líder del equipo**: [Nombres y Apellidos]  <br>
-**Integrantes del equipo:**
-  - 
-**Fecha de entrega**: 
